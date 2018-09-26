@@ -29,6 +29,5 @@ mv config.prod config.uat config.beta-qa $HOME/.kube
 kubenv -e prod
 
 // to qa environment
-
 kubenv -e beta-qa
 ```
